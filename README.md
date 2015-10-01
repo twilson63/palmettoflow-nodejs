@@ -1,5 +1,7 @@
 # palmettoflow nodejs
 
+[![Build Status](https://travis-ci.org/twilson63/palmettoflow-nodejs.svg?branch=master)](https://travis-ci.org/twilson63/palmettoflow-nodejs)
+
 An internal adapter for using palmetto flow wihin a nodejs application. It enables developers to build palmettoflow microservices without having to separate them from the application immediately. It also allows for developers to create microsservices on the browser.
 
 ## What is palmetto flow?
@@ -36,3 +38,20 @@ module.exports = function (ee) {
   })
 }
 ```
+
+## Contribution
+
+Contributors welcome
+
+## Support
+
+Post an issue
+
+## License
+
+MIT
+
+## Thank you
+
+* NodeJS Development Team
+* TravisCI
