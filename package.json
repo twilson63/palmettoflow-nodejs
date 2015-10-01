@@ -1,0 +1,15 @@
+{
+  "name": "palmettoflow-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test"
+  },
+  "keywords": [],
+  "author": "Tom",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^2.0.0"
+  }
+}
